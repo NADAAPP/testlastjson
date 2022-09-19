@@ -1,0 +1,69 @@
+{
+	"items": [{
+			"title": "wondrful girl 1",
+			"image": "https://i.ibb.co/rHCFXqL/Sans-titre-1.png",
+			"color": "centre",
+			"gravity": "centre",
+			"text_size": "25",
+			"isLink": "",
+			"Link_title": "",
+			"setLink": "",
+			"text": "Each property has a valueIf you parse the JSON string with a JavaScript program, you can access the data as an object",
+			"image_Link": "",
+			"isNative": "false"
+
+		},
+		{
+			"title": "wondrful girl 2",
+			"image": "https://i.ibb.co/rHCFXqL/Sans-titre-1.png",
+			"color": "centre",
+			"gravity": "centre",
+			"text_size": "25",
+			"isLink": "",
+			"Link_title": "",
+			"setLink": "",
+			"image_Link": "",
+			"text": "Each property has a valueIf you parse the JSON string with a JavaScript program, you can access the data as an object",
+			"isNative": "false"
+		},
+		{
+			"title": "wondrful girl 3",
+			"image": "https://i.ibb.co/rHCFXqL/Sans-titre-1.png",
+			"color": "centre",
+			"gravity": "centre",
+			"text_size": "25",
+			"isLink": "",
+			"Link_title": "",
+			"setLink": "",
+			"image_Link": "",
+			"text": "Each property has a valueIf you parse the JSON string with a JavaScript program, you can access the data as an object",
+			"isNative": "false"
+		},
+		{
+			"title": "wondrful girl 4",
+			"image": "https://i.ibb.co/rHCFXqL/Sans-titre-1.png",
+			"color": "centre",
+			"gravity": "centre",
+			"text_size": "25",
+			"isLink": "",
+			"Link_title": "",
+			"setLink": "",
+			"image_Link": "",
+			"text": "Each property has a valueIf you parse the JSON string with a JavaScript program, you can access the data as an object",
+			"isNative": "false"
+		},
+		{
+			"title": "wondrful girl 5",
+			"image": "https://i.ibb.co/rHCFXqL/Sans-titre-1.png",
+			"color": "centre",
+			"gravity": "centre",
+			"text_size": "25",
+			"isLink": "",
+			"Link_title": "",
+			"setLink": "",
+			"image_Link": "",
+			"text": "Each property has a valueIf you parse the JSON string with a JavaScript program, you can access the data as an object",
+			"isNative": "false"
+		}
+	]
+}
